@@ -1,3 +1,3 @@
 # wp
 web-dev
-Hi Humas!
+Hi Humans!
